@@ -218,6 +218,8 @@ Add new data to `src/data/mockData.ts`
 
 ## 📸 Screenshots
 
+<img width="1912" height="1096" alt="Screenshot 2026-07-07 153554" src="https://github.com/user-attachments/assets/07c407fa-adb0-4758-948a-4487b747c6ed" />
+
 ### Dashboard
 - Protection status hero card
 - Quick scan actions
