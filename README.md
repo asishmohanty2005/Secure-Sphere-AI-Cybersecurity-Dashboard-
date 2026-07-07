@@ -219,6 +219,10 @@ Add new data to `src/data/mockData.ts`
 ## 📸 Screenshots
 
 <img width="1912" height="1096" alt="Screenshot 2026-07-07 153554" src="https://github.com/user-attachments/assets/07c407fa-adb0-4758-948a-4487b747c6ed" />
+<img width="1917" height="1085" alt="Screenshot 2026-07-07 153622" src="https://github.com/user-attachments/assets/a89f6b98-b01b-4231-a881-ec5202cd765e" />
+<img width="1916" height="1087" alt="Screenshot 2026-07-07 153656" src="https://github.com/user-attachments/assets/8da33261-cc02-4b1f-a463-7ccb8c8e9bf5" />
+<img width="1916" height="1092" alt="Screenshot 2026-07-07 153715" src="https://github.com/user-attachments/assets/6d9b4778-b40f-4695-b82d-a0edc1a288cc" />
+<img width="1916" height="1092" alt="Screenshot 2026-07-07 153715" src="https://github.com/user-attachments/assets/05f452a2-2455-4c9e-b0be-67c9fbde5e27" />
 
 ### Dashboard
 - Protection status hero card
